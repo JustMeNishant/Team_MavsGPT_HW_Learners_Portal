@@ -1,0 +1,77 @@
+[
+    {
+        "Name": "John Doe",
+        "Email": "john.doe@email.com",
+        "Skills": [
+            "Skills:",
+            "- Python",
+            "- Machine Learning",
+            "- Data Analysis",
+            "- SQL",
+            "- JavaScript",
+            "- Data Visualization",
+            "- TensorFlow",
+            "- Pandas",
+            "- NumPy",
+            "- Git",
+            "- Docker",
+            "- AWS",
+            "SKILL_END"
+        ],
+        "Current Job Role": [
+            "Senior Data Scientis"
+        ],
+        "Experience": [
+            "Experience in Technology:",
+            "1. Senior Data Scientist, XYZ Tech Inc.",
+            "- Led a team of data scientists in developing machine learning models for predictive analytics.",
+            "- Implemented data preprocessing pipelines and feature engineering techniques.",
+            "- Conducted exploratory data analysis and presented insights to stakeholders.",
+            "2. Data Analyst, ABC Company",
+            "- Analyzed large datasets to extract actionable insights and support decision-making processes.",
+            "- Developed SQL queries to retrieve and manipulate data from relational databases.",
+            "- Created visualizations using Matplotlib and Seaborn to communicate findings effectively.",
+            "3. Software Engineer, DEF Solutions",
+            "- Designed and developed web applications using Python, Django, and JavaScript.",
+            "- Implemented RESTful APIs for seamless interaction between frontend and backend systems.",
+            "- Collaborated with cross-functional teams to deliver high-quality software solutions on time."
+        ]
+    },
+    {
+        "Name": "Jane Smith",
+        "Email": "jane.smith@email.com",
+        "Skills": [
+            "Skills:",
+            "- Java",
+            "- Spring Boot",
+            "- Microservices",
+            "- Hibernate",
+            "- RESTful APIs",
+            "- Angular",
+            "- MongoDB",
+            "- Docker",
+            "- Kubernetes",
+            "- Jenkins",
+            "- Agile Methodology"
+        ],
+        "Current Job Role": [
+            "Senior Java Develope"
+        ],
+        "Experience": [
+            "Experience in Technology:",
+            "1. Senior Java Developer, Tech Solutions Ltd.",
+            "- Led the development of microservices architecture using Spring Boot and Docker containers.",
+            "- Designed and implemented RESTful APIs for seamless communication between services.",
+            "- Worked closely with frontend teams to integrate backend functionalities into Angular applications.",
+            "2. Software Engineer, Innovative Software Inc.",
+            "- Developed scalable web applications using Java, Spring Framework, and Hibernate ORM.",
+            "- Implemented caching mechanisms to optimize application performance and reduce latency.",
+            "- Participated in code reviews and contributed to the continuous improvement of coding standards.",
+            "3. DevOps Engineer, Cloud Innovations",
+            "- Automated deployment pipelines using Jenkins, Docker, and Kubernetes for cloud-native applications.",
+            "- Managed infrastructure as code using Terraform to provision and configure cloud resources.",
+            "- Implemented monitoring and logging solutions to ensure high availability and performance of applications.",
+            "Current Job Role: Senior Java Develope"
+        ]
+    }
+]
